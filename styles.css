@@ -1,0 +1,17 @@
+.footer{
+    background-color: gray;
+    margin-top: 30px;
+}
+
+.texto{
+    text-align: justify;
+}
+
+.margen{
+    margin-top: 30px;
+}
+
+.imagenes{
+    width: 400px;
+    height: 200px;
+}
